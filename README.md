@@ -1,2 +1,2 @@
 # kidsstory
-This is to learn git commands
+This is to learn git commands.
